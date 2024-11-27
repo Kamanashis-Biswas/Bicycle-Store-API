@@ -53,4 +53,6 @@ Build and Start in Production:
 npm start
 ```
 
-**Access the API**: The server will run on http://localhost:5000/api (or the port specified in your .env file).
+**Access the API LOCALLY**: The server will run on http://localhost:5000/api (or the port specified in your .env file).
+
+**Access the API LIVE**: The server will run on https://assignment-2-fawn-eta.vercel.app/api/
